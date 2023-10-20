@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Daniel Castillo
-- 👀 I’m interested in la programación
-- 🌱 I’m currently learning  porgramación web
-- 💞️ I’m looking to collaborate on  proyectos donde coger experiencia
-- 📫 How to reach me en mi email (danielcastillobalboa@gmail.com)
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Fulstack Development
+- 💞️ I’m looking to collaborate in big proyects
+- 📫 How to reach me in my email (danielcastillobalboa@gmail.com)
 
 <!---
 TheDaidor2001/TheDaidor2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
